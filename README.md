@@ -1,4 +1,4 @@
-responsive-tables
+Responsive-Tables - Paginated
 =================
 
 <h4>A Responsive, Paginated Table Solution</h4>
