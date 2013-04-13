@@ -3,6 +3,10 @@ Responsive-Tables - Paginated
 
 <h4>A Responsive, Paginated Table Solution</h4>
 
+<h4>Demo</h4>
+
+<a href ="http://m9digital.co.uk/development/responsive-tables/demo.html">Responsive Tables Demo</a>
+
 <h4>Why?</h4>
 
 I've been looking at tables in responsive design for some time. This concept has been floating around for a while now - JQuery Mobile uses the technique of inserting a small element in to the table. What I wasn't so keen on was the table presentation in linear format, where a user has to scroll for miles to see the table details. So, I took the jQuery Mobile concept, and paginated the table at smaller screen.
